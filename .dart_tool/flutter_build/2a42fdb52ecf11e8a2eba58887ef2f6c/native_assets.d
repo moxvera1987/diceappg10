@@ -1,0 +1,1 @@
+ G:\\CFLUTTER\\G10\\diceapp10\\.dart_tool\\flutter_build\\2a42fdb52ecf11e8a2eba58887ef2f6c\\native_assets.yaml: 
